@@ -6,9 +6,11 @@
 
 ### 🚀 About Me
 
+- 🎓 **Gollis University** — Graduated 2023, GPA 3.21
 - 📊 **Data Analyst** — turning raw data into clear insights
 - 💻 Building modern, scalable web apps with the **MERN Stack**
 - 🧠 Skilled in **Excel, SQL Server & Power BI** for reporting and dashboards
+- 📜 Certified in Data Analysis — [View Certificate](https://verify-certificate.u-learns.com/?id=CERT-DKGPNW-7C9H)
 - ⚙️ Experience with **Odoo ERP** implementation & customization
 - 📍 Based in Hargeisa, Somaliland
 - 📧 Email: abdiasiismohammed@gmail.com
@@ -18,7 +20,8 @@
 ### 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdiasiismohammed@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdiasiis-mohamed-531287309)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@genntlemann)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gentlemaninsights.vercel.app/)
 
 ---
